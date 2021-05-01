@@ -1,0 +1,16 @@
+{
+  "name": "scraping",
+  "version": "1.0.0",
+  "description": "# Steps to follow * `npm i puppeteer`",
+  "main": "script.js",
+  "dependencies": {
+    "puppeteer": "^9.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node script"
+  },
+  "keywords": [],
+  "author": "codeshift",
+  "license": "ISC"
+}
